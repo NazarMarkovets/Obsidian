@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "b6a76d1d6537463c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a537fb61d20b281f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C# Learning/202011121729 Initial.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1d123c97a960214d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C# Learning/202011121729 Initial.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40031c1a110a706f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad378077f20e36b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e359fb7dbc4fe3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a55d7c1c62b48405",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "88b0e8ae4332090a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 184.5
+  },
+  "right": {
+    "id": "06a10661c6a4c880",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c582cfdc5b7613f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a53260daf53295",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C# Learning/202011121729 Initial.md"
+              }
+            }
+          },
+          {
+            "id": "64a5e53e0a171dd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "C# Learning/202011121729 Initial.md",
+    "Git Bash/202011121822 Create global repository.md",
+    "C# Learning/202011041455 Enums.md",
+    "C# Learning/202011121729 ASP.NET core.md",
+    "Git Bash/202011121835 Create local repository.md",
+    "Git Bash/202011121848 Initial.md",
+    "202011121848.md",
+    "Git Bash/202011121819 Git Bash.md",
+    "202011121835.md",
+    "202011041557 Obsidian Learnign.md"
+  ]
+}
