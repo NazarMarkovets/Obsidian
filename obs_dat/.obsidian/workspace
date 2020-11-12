@@ -10,18 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C# Learning/202011121729 Initial.md",
+            "file": "Git Bash/202011121835 Create local repository.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "1d123c97a960214d",
+        "id": "d490ac221e27385a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C# Learning/202011121729 Initial.md",
+            "file": "Git Bash/202011121835 Create local repository.md",
             "mode": "preview"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C# Learning/202011121729 Initial.md"
+                "file": "Git Bash/202011121835 Create local repository.md"
               }
             }
           },
@@ -103,11 +103,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "C# Learning/202011121729 Initial.md",
+    "Git Bash/202011121835 Create local repository.md",
     "Git Bash/202011121822 Create global repository.md",
+    "C# Learning/202011121729 Initial.md",
     "C# Learning/202011041455 Enums.md",
     "C# Learning/202011121729 ASP.NET core.md",
-    "Git Bash/202011121835 Create local repository.md",
     "Git Bash/202011121848 Initial.md",
     "202011121848.md",
     "Git Bash/202011121819 Git Bash.md",

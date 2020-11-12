@@ -3,25 +3,36 @@
 1) Create project folder
 2) Add files
 3) Open `git bash`
-4) use command
+4) use commands belong:
+
+
 ```git
 git config --global user.name "NazMarch"
 git config --global user.email nazaran237@gmail.com
 
-is used to authonticate users
 ```
+Is used to authenticate users
 
-Then write 
 ```git
-git init
-
-git remote add origin https://github.com/NazMarch/asp.net.git
-
 git add.
 
 git commit -m "commit message"
+```
 
-git push --set-upstream origin master
+Then write 
+Before to get the ***<u>HTTPS</u>*** link you should have `a remote repository`
+```git
+git init
+git remote add origin [link of the remote repository] 
+```
+>EXAMPLE:
+``git remote add origin https://github.com/NazMarch/asp.net.git``
+
+
+Finally write
+```git 
+git branch -M master
+git push -u origin master
 ```
 
 
