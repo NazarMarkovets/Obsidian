@@ -1,0 +1,4 @@
+- [ ] Cloud storage of data
+- [ ] Obsidian notes management
+- [x] Version control with Git
+- [ ] 

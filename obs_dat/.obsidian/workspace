@@ -4,36 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3f6ae9dd58f4074d",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "ada91457c87866a5",
+        "id": "661d6f844ae17d42",
         "type": "split",
         "children": [
           {
-            "id": "1a5f9c31a6f2e8ed",
+            "id": "b0726c0c13b616e1",
             "type": "leaf",
+            "dimension": 41.64588528678304,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bec035d9f144d81",
+            "type": "leaf",
+            "dimension": 24.93765586034913,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C# Learning/202011121729 Initial.md",
+                "file": "202011131409 Alina's learnign.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "69a9a18394b21778",
+            "id": "aae5131d021f0a67",
             "type": "leaf",
+            "dimension": 33.416458852867834,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C# Learning/202011121729 Initial.md",
+                "file": "202011041557 Obsidian Learnign.md",
                 "mode": "preview"
               }
             }
@@ -97,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "202011131409 Alina's learnign.md"
+              }
             }
           },
           {
@@ -108,23 +113,23 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 141.1999969482422
   },
   "lastOpenFiles": [
+    "202011131409 Alina's learnign.md",
+    "202011041557 Obsidian Learnign.md",
+    "MySQL/202011091508 Load Blob.md",
+    "202011131409.md",
+    "Git Bash/202011121848 Initial.md",
+    "MySQL/202011091546 Upload BLOB.md",
+    "Git Bash/202011131115 Set up the upload path for Bash.md",
     "C# Learning/202011121729 Initial.md",
     "Git Bash/202011121835 Create local repository.md",
-    "Git Bash/202011121848 Initial.md",
-    "Git Bash/202011131115 Set up the upload path for Bash.md",
-    "202011131115 Set up the upload path for Bash.md",
-    "imagesource.md",
-    "Git Bash/202011121822 Create global repository.md",
-    "202011131115.md",
-    "C# Learning/202011041455 Enums.md",
-    "C# Learning/202011121729 ASP.NET core.md"
+    "202011131115 Set up the upload path for Bash.md"
   ]
 }
