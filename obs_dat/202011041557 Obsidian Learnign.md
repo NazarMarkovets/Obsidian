@@ -40,3 +40,4 @@ public static double Det( double a, double b)=> a+b;
 > alt + l - активировать левую часть
 > alt + r - активировать правую часть
 > alt + s - call settings 
+> alt + w - close active window

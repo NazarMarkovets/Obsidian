@@ -5,7 +5,7 @@
   #a- active
 */
 .theme-dark {
-  --background-primary: #202020;
+  --background-primary: #131010; /* editor background, graph background*/
   --background-primary-alt: #1a1a1a;
   --background-secondary: #161616;
   --background-nav-alt: #1f201f;
@@ -27,19 +27,35 @@
   --text-error: #b11b1b;
   --text-error-hover: #c06363;
   --text-highlight-bg: #6d6d6d98; /* marked text by ==symbols */
-  --text-on-accent: #276eb1; /* #p text program head, #a text right panel*/
-  --interactive-normal: #2a2a2a;
+  --text-on-accent: #2743df; /* #p text program head, #a text right panel*/
   --interactive-hover: #303030;
   --interactive-accent: #bbd622; /* #p of active window color*/
   --interactive-accent-hover: #d6ba7c; /* #a color of buttons in settings */
   
   /* scroll bar settings*/
-  --scrollbar-active-thumb-bg: #80b67e; /* #a scrollbar item color*/
+  --scrollbar-active-thumb-bg: #444e0bd3; /* #a scrollbar item color*/
   --scrollbar-bg: rgb(255, 255, 255); /*#p scrollbar background color */
-  --scrollbar-thumb-bg: rgb(148, 44, 44); /*#p scrollbar item color */
+  --scrollbar-thumb-bg:#59661096; /*#p scrollbar item color */
   
   --interactive-accent-rgb: #d2c8e9; /* ?*/
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .theme-light {
   --interactive-accent-rgb: #d6ba7c;
