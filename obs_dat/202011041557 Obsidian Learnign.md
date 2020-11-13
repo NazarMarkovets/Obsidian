@@ -1,3 +1,4 @@
+#Obsidian
 # Header 1
 ## Header 2
 ### Header 3
@@ -17,7 +18,8 @@ Lists
  [git hub](https://github.com/)
  
 Paste image from the internet
-![text](imagesource)
+``![text](imagesource)``
+
 ![ПАВУК](https://cs10.pikabu.ru/post_img/big/2020/04/18/7/158721021619479005.jpg)
 
 Setting image
@@ -26,7 +28,8 @@ Setting image
 
 #### Special text 
 `filling text`
-
+*cusive*
+***bold***
 - [ ] add new
 - [x] completed  
 
@@ -34,10 +37,7 @@ Setting image
 public static double Det( double a, double b)=> a+b; 
 ```
 
-## My Shortcuts
-> alt + v - разделить по вертикали
-> alt + h - разделить по горизонтали
-> alt + l - активировать левую часть
-> alt + r - активировать правую часть
-> alt + s - call settings 
-> alt + w - close active window
+
+- anthonyg ([Anthony Gold](https://www.anthonypgold.com/))<span class='flair mod-pop' style='background-color:#F1C40F;color:#000;'>Team Gold</span>
+- argentum<span class='flair mod-pop'>Team Little Silvers</span>
+- Reggie<span class='flair mod-pop' style='background-color:#0a8c28'>Go green or go home</span>
