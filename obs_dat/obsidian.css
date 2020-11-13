@@ -1,3 +1,9 @@
+/* short words
+  #em- edit mode
+  #vm - view mode
+  #p - passive
+  #a- active
+*/
 .theme-dark {
   --background-primary: #202020;
   --background-primary-alt: #1a1a1a;
@@ -5,11 +11,11 @@
   --background-nav-alt: #1f201f;
   --background-nav: #151615;
   --golden-brown: #d6ba7c;
-  --text-accent: #d6ba7c;
-  --text-accent-hover: #d6ba7c;
-  --text-normal: #dcddde;
-  --text-muted: #888;
-  --text-faint: #555;
+  --text-accent: #3dc28f; /* active 3 items (new note,folder, sort), #p#vm hashtag */
+  --text-accent-hover: #1a0e83;
+  --text-normal: #9ea6ad; /* all text color*/
+  --text-muted: rgb(255, 156, 8); /*activate items, #p#em hashtags, dots color */ 
+  --text-faint: rgb(138, 33, 33); /*line number color*/
   --text-error: #ff3333;
   --text-error-hover: #990000;
   --text-highlight-bg: #dbaa205e;

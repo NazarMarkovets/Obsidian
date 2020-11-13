@@ -37,7 +37,11 @@ git push -u origin master
 
 
 
-To remove false remote 
+==To remove false remote==
 ```git 
 git remote remove origin
+```
+==To Delete empty init==
+```git 
+rm -rf .git
 ```
