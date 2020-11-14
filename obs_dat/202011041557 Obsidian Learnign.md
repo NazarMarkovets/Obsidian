@@ -1,4 +1,5 @@
-#Obsidian
+<span class='flair mod-pop' style='background-color:#F1C40F;color:#818181;'>#Obsidian</span>
+
 # Header 1
 ## Header 2
 ### Header 3
