@@ -4,25 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0cf944b063dae6f5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202011041557 Obsidian Learnign.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "76f8a1980280ee71",
+        "id": "711b5775509db06d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202011041557 Obsidian Learnign.md",
-            "mode": "source"
+            "file": "MySQL/202011161243 Select statement.md",
+            "mode": "preview"
           }
         }
       }
@@ -51,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Obsidian"
+                "query": ""
               }
             }
           },
@@ -63,12 +52,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 299
   },
   "right": {
     "id": "06a10661c6a4c880",
@@ -84,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202011041557 Obsidian Learnign.md"
+                "file": "MySQL/202011161243 Select statement.md"
               }
             }
           },
@@ -101,18 +89,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 164.1999969482422
+    "width": 164.1999969482422,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "202011041557 Obsidian Learnign.md",
-    "202011140133 Obsidian Shortcuts.md",
-    "imagesource.md",
-    "202011131409 Alina's learnign.md",
-    "202011140133.md",
-    "Untitled.md",
-    "Git Bash/202011121848 Initial.md",
-    "202011140014.md",
-    "Коламбуры/202011082338 Фразы.md",
-    "Коламбуры/202011082337 Слова.md"
+    "MySQL/202011161243 Select statement.md",
+    "Pasted image 20201116131242.png",
+    "Pasted image 20201116130929.png",
+    "MySQL/202011091508 Load Blob.md",
+    "MySQL/202011142314 Insert sequence.md",
+    "Templates/Underline.md",
+    "Templates/!Tag and img.md",
+    "202011161243 Select statement.md",
+    "Pasted image 20201116124359.png",
+    "202011161243.md"
   ]
 }
