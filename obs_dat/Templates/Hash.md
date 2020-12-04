@@ -1,2 +1,3 @@
-<span class='flair'>#Obsidian</span>
+#template
+<span class='flair'>#</span>
 

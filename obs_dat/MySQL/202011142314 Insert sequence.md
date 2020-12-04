@@ -6,9 +6,9 @@ For example we have a scheme:
 
 It means that we should make a special sequence as:
 ```code
-┌─ user_role
+┌─  role
 ├─► user
-├─► order_status
+├─► status
 ├─► order
 ├─► format_type
 ├─► macket_to_print
@@ -16,6 +16,9 @@ It means that we should make a special sequence as:
 ├─► fonts
 ├─► paper_density
 ├─► paper_brightness
+├─► paper_iso
+├─► paper_colors
+├─► paper_covering
 ├─► paper
 ├─► services
 └─► order_services

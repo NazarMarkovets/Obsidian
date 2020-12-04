@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "711b5775509db06d",
+        "id": "1de4a662692df106",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MySQL/202011161243 Select statement.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#Obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -52,11 +54,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "right": {
     "id": "06a10661c6a4c880",
@@ -72,7 +76,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/202011161243 Select statement.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -93,15 +101,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "MySQL/202011161243 Select statement.md",
-    "Pasted image 20201116131242.png",
-    "Pasted image 20201116130929.png",
-    "MySQL/202011091508 Load Blob.md",
-    "MySQL/202011142314 Insert sequence.md",
+    "Templates/Hash.md",
+    "Templates/Code block.md",
     "Templates/Underline.md",
+    "Templates/Mark text.md",
     "Templates/!Tag and img.md",
-    "202011161243 Select statement.md",
-    "Pasted image 20201116124359.png",
-    "202011161243.md"
+    "202011140133 Obsidian Shortcuts.md",
+    "202011041557 Obsidian Learnign.md",
+    "202012050140 special type of exceptions.md",
+    "C# Learning/202012050133 Типы исключений. Класс Exception.md",
+    "202012050140 special type.md"
   ]
 }

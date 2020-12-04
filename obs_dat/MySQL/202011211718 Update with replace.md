@@ -1,4 +1,4 @@
-#template
+#MYSQL 
 
 #
 <div align="center">
@@ -10,4 +10,17 @@ Learning
 
 <hr>
 
-#
+# Code
+
+##### Text
+
+```sql
+
+update innodb.driver
+set Birth_Date = replace(Birth_Date, '\.', '\-')
+where Driver_ID > 0;
+
+update innodb.driver SET Birth_Date = str_to_date(Birth_Date, "%d-%m-%Y")
+where Driver_ID>0;
+
+```
