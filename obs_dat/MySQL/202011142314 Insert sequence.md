@@ -23,3 +23,17 @@ It means that we should make a special sequence as:
 ├─► services
 └─► order_services
 ```
+
+
+
+
+##### Код необходимый для быстрого создания записей на ввод
+```sql
+INSERT INTO user(name, email, phone)
+
+SELECT 
+	CONCAT(name, lpad(conv(floor(rand()*pow(36,6)),10, 36), 6, 0)) as name
+	email,
+	CONCAT(LEFT(phone,8), ROUND(RAND()*100)) as phone
+
+```

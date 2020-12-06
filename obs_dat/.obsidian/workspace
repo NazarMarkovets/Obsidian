@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7b77d32f6dbc89db",
+        "id": "aa2c291a033fa299",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202012061715 Operator Explain.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ceccc874694dde7f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202012061715 Operator Explain.md",
+            "file": "MySQL/202012061715 Operator Explain.md",
             "mode": "preview"
           }
         }
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202012061715 Operator Explain.md",
+                "file": "MySQL/202012061715 Operator Explain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +103,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202012061715 Operator Explain.md",
-    "202012061715.md",
-    "202012061703 Triggers.md",
-    "202012061703.md",
-    "C# Learning/202012052321 Деструкторы.md",
-    "C# Learning/202011160129 .NET.md",
-    "Docs/Сsharp для чайников.pdf",
-    "202012060142.md",
-    "Untitled.md",
-    "202012052321 Деструкторы.md"
+    "MySQL/202012061715 Operator Explain.md",
+    "MySQL/202012061703 Triggers.md",
+    "MySQL/202011211718 Update with replace.md",
+    "MySQL/202011161243 Select statement.md",
+    "MySQL/202011151922 Solve problem ERROR 3678.md",
+    "MySQL/202011152056 Solve problem ERROR 1062.md",
+    "MySQL/202011091546 Upload BLOB.md",
+    "MySQL/202011091508 Load Blob.md",
+    "MySQL/202011151524 Delete statement.md",
+    "MySQL/202012061802 Create many inserts.md"
   ]
 }
