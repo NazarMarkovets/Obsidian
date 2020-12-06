@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1de4a662692df106",
+        "id": "65d4c157f2bf277c",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Obsidian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299,
-    "collapsed": true
+    "width": 299
   },
   "right": {
     "id": "06a10661c6a4c880",
@@ -101,15 +100,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Templates/Hash.md",
-    "Templates/Code block.md",
-    "Templates/Underline.md",
-    "Templates/Mark text.md",
-    "Templates/!Tag and img.md",
-    "202011140133 Obsidian Shortcuts.md",
+    "C# Learning/202012052321 Деструкторы.md",
+    "C# Learning/202011160129 .NET.md",
+    "Docs/Сsharp для чайников.pdf",
+    "202012060142.md",
+    "Untitled.md",
+    "202012052321 Деструкторы.md",
     "202011041557 Obsidian Learnign.md",
-    "202012050140 special type of exceptions.md",
-    "C# Learning/202012050133 Типы исключений. Класс Exception.md",
-    "202012050140 special type.md"
+    "202012052321.md",
+    "202011131409 Alina's learnign.md",
+    "Templates/Hash.md"
   ]
 }
