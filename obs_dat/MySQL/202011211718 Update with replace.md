@@ -24,3 +24,10 @@ update innodb.driver SET Birth_Date = str_to_date(Birth_Date, "%d-%m-%Y")
 where Driver_ID>0;
 
 ```
+
+
+
+##### update example
+```sql
+update inno.user set email = (replace (email, 'gmail.com','@gmail.com'));
+```

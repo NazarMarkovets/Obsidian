@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2c291a033fa299",
+        "id": "bfa75e4bb9e5cdb3",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MySQL/202012061715 Operator Explain.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "upd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/202012061715 Operator Explain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -103,15 +101,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "MySQL/202012061715 Operator Explain.md",
-    "MySQL/202012061703 Triggers.md",
+    "MySQL/202012142311 MySQL Shell.md",
+    "MySQL/202012200231 Log file.md",
+    "202012200231 Log file.md",
+    "Templates/Code block.md",
     "MySQL/202011211718 Update with replace.md",
-    "MySQL/202011161243 Select statement.md",
-    "MySQL/202011151922 Solve problem ERROR 3678.md",
-    "MySQL/202011152056 Solve problem ERROR 1062.md",
-    "MySQL/202011091546 Upload BLOB.md",
-    "MySQL/202011091508 Load Blob.md",
-    "MySQL/202011151524 Delete statement.md",
-    "MySQL/202012061802 Create many inserts.md"
+    "202011140133 Obsidian Shortcuts.md",
+    "MySQL/202012111447 Generate data for TEXT type.md",
+    "MySQL/202012061715 Operator Explain.md",
+    "MySQL/202012130159 Stored Procedure and Functions.md",
+    "MySQL/202012150231 Create Finish data using Start data.md"
   ]
 }
