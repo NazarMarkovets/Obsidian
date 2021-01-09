@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa75e4bb9e5cdb3",
+        "id": "83b13a913f755510",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CSharp/202101092056 Порозрядные операции.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 284
   },
   "right": {
     "id": "06a10661c6a4c880",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSharp/202101092056 Порозрядные операции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -101,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "MySQL/202012142311 MySQL Shell.md",
-    "MySQL/202012200231 Log file.md",
-    "202012200231 Log file.md",
-    "Templates/Code block.md",
-    "MySQL/202011211718 Update with replace.md",
-    "202011140133 Obsidian Shortcuts.md",
-    "MySQL/202012111447 Generate data for TEXT type.md",
-    "MySQL/202012061715 Operator Explain.md",
-    "MySQL/202012130159 Stored Procedure and Functions.md",
-    "MySQL/202012150231 Create Finish data using Start data.md"
+    "202101092056 Порозрядные операции.md",
+    "202101092026 Simple crypting.md",
+    "202101092056.md",
+    "202101092026.md",
+    "CSharp/202101020037 Dotnet console.md",
+    "CSharp/202101040117 Work with MySQL.md",
+    "CSharp/202101030219 Сборка проэкта.md",
+    "Git Bash/202101062237 Create rollback for pushed changes.md",
+    "CSharp/202012050140 Special type of exceptions.md",
+    "CSharp/202101020025 Using derective.md"
   ]
 }

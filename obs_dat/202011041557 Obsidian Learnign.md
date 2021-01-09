@@ -7,10 +7,7 @@
 
 
 
-><span class='flair' style='background-color:#F1C40F;color:#000;'>Be better</span>
->><span class='flair' style='background-color: red ;color: white;'>Be stronger</span>
->>> <span class='flair mod-pop' style='color: black;'>Be useful</span>
->>>> <span class='flair' style='background-color:green'>be patient</span>
+
 
 
 # Header 1
@@ -18,6 +15,12 @@
 ### Header 3
 #### Header 4
 ##### Header 5
+<hr>
+
+<span class='flair mod-pop' style='background-color: red ;color: white;'>General</span>
+
+==Если помещаешь файлы в папку - именуй файлы хештегом имя которого совпадает с именем папки==
+
 <hr>
 
 # Lists 
@@ -38,7 +41,13 @@
  
 ## Global link
  > [git hub](https://github.com/)
- 
+
+## Link To Document 
+> [[202011041557 Obsidian Learnign]]
+
+## Link To Document's header or chapter
+> [[202011041557 Obsidian Learnign#Link To Document's header or chapter]]
+
 ## Paste image from the internet
 > ``![text](imagesource)``
 
@@ -62,7 +71,7 @@
 
 # Beauty tags
 
-><span class='flair mod-pop' style='background-color:#F1C40F;color:#000;'>Team Gold</span>
->><span class='flair mod-pop' style='background-color: red ;color: white;'>Team Gold</span>
->>> <span class='flair mod-pop' style='color: black;'>Team Little Silvers</span>
->>>> <span class='flair mod-pop' style='background-color:#0a8c28'>Go green or go home</span>
+><span class='flair' style='background-color:#F1C40F;color:#000;'>Be better</span>
+>><span class='flair' style='background-color: red ;color: white;'>Be stronger</span>
+>>> <span class='flair mod-pop' style='color: black;'>Be useful</span>
+>>>> <span class='flair' style='background-color:green'>be patient</span>

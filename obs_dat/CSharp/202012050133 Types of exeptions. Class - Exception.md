@@ -33,4 +33,4 @@ try
 
 Однако так как тип <mark>Exception</mark> является базовым типом для всех исключений, то выражение catch (Exception ex) будет обрабатывать все исключения, которые могут возникнуть.
 
-[[202012050140 special type of exceptions]]
+[[202012050140 Special type of exceptions]]
