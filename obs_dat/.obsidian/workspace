@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "83b13a913f755510",
+        "id": "eae09bb37ed0f458",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSharp/202101092056 Порозрядные операции.md",
+            "file": "202101240006 Work with %.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/202101092056 Порозрядные операции.md",
+                "file": "202101240006 Work with %.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202101092056 Порозрядные операции.md",
-    "202101092026 Simple crypting.md",
-    "202101092056.md",
-    "202101092026.md",
-    "CSharp/202101020037 Dotnet console.md",
-    "CSharp/202101040117 Work with MySQL.md",
-    "CSharp/202101030219 Сборка проэкта.md",
-    "Git Bash/202101062237 Create rollback for pushed changes.md",
-    "CSharp/202012050140 Special type of exceptions.md",
-    "CSharp/202101020025 Using derective.md"
+    "202101240006 Work with %.md",
+    "202011142225 ASCII simbols.md",
+    "202011140133 Obsidian Shortcuts.md",
+    "202101240006.md",
+    "CSharp/202101212005 Work with characters in Console.md",
+    "202101212005.md",
+    "MySQL/202012131658 Delete duplicate from the query.md",
+    "MySQL/202101041451 Take replace value from one table to another.md",
+    "MySQL/202101041501 Format Float (concat numpers after coma).md",
+    "Git Bash/202101062237 Create rollback for pushed changes.md"
   ]
 }
