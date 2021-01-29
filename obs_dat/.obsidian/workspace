@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6863e6795e56db01",
+        "id": "6240193c4ef07a17",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "202101290020 Single Page app.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202101290020 Single Page app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202101260218.md",
-    "CSharp/202101242317 DO WHILE LOOP.md",
-    "202101242317.md",
-    "202101242241 short IF statement.md",
-    "202101240026 Logical operators &&, NOR and others.md",
-    "202101242241.md",
-    "202101240026.md",
-    "202101240019 If else.md",
+    "202101290020 Single Page app.md",
     "202011041557 Obsidian Learnign.md",
-    "202101240006 Work with %.md"
+    "202011140133 Obsidian Shortcuts.md",
+    "202011152348 Windows shortcuts.md",
+    "202011142225 ASCII simbols.md",
+    "Git Bash/202011121835 Create local repository.md",
+    "Git Bash/202011121848 Initial.md",
+    "Git Bash/202101062237 Create rollback for pushed changes.md",
+    "Git Bash/202101290322 Совместная разработка.md",
+    "202101290347.md"
   ]
 }
