@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6240193c4ef07a17",
+        "id": "4e12e50cd2cec249",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202101290020 Single Page app.md",
+            "file": "Git Bash/202011121848 Initial settings.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202101290020 Single Page app.md",
+                "file": "Git Bash/202011121848 Initial settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202101290020 Single Page app.md",
+    "Git Bash/202011121848 Initial.md",
     "202011041557 Obsidian Learnign.md",
     "202011140133 Obsidian Shortcuts.md",
-    "202011152348 Windows shortcuts.md",
-    "202011142225 ASCII simbols.md",
-    "Git Bash/202011121835 Create local repository.md",
-    "Git Bash/202011121848 Initial.md",
     "Git Bash/202101062237 Create rollback for pushed changes.md",
     "Git Bash/202101290322 Совместная разработка.md",
-    "202101290347.md"
+    "202011142225 ASCII simbols.md",
+    "CSharp/202102021645 Creating Unit Test.md",
+    "202101291836 Rebuild solution.md",
+    "202101290020 Single Page app.md",
+    "202101311412 DTO.md"
   ]
 }
