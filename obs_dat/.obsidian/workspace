@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Git Bash/202011121848 Initial settings.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Git Bash/202011121848 Initial.md",
+    "Git Bash/202011121848 Initial settings.md",
     "202011041557 Obsidian Learnign.md",
+    "202102042346 Location of stored files.md",
+    "202102042346.md",
+    "Git Bash/202011121848 Initial.md",
     "202011140133 Obsidian Shortcuts.md",
     "Git Bash/202101062237 Create rollback for pushed changes.md",
     "Git Bash/202101290322 Совместная разработка.md",
     "202011142225 ASCII simbols.md",
-    "CSharp/202102021645 Creating Unit Test.md",
-    "202101291836 Rebuild solution.md",
-    "202101290020 Single Page app.md",
-    "202101311412 DTO.md"
+    "CSharp/202102021645 Creating Unit Test.md"
   ]
 }

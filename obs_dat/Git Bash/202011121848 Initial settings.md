@@ -1,40 +1,46 @@
 #GitBash
 1) Go to the official web site to download Git bash
  [git-scm](https://git-scm.com/)
-2) Open bash and change the theme `nord`
+
+
+<hr></hr>
 
 # Config setup folder for git bash
 1. Call git bash
 2. write: nano ``.bashrc``
 3. write
-	```git
-	moveHome() { cd /c/my/repostiories; } 
-	moveHome
-	export HOME=/c/my/repositories
-   ```
+
+```bash
+moveHome() { cd /c/my/repostiories; } 
+moveHome
+export HOME=/c/my/repositories
+```
 
 > /c/my/repostiories - your own path to folder you need;
 
 4. Press `CTR+O`
 5. Press `CTR+X` 
+
+
  
- # Styling Bash
+# Styling Bash
  Settings Article: [set cursor](https://vishnupadmanabhan.com/styling-git-bash/)
  Set Colors : [habr](https://habr.com/ru/post/119436/)
- find: 
+ Find in habr the part below: 
  
  >RED='\\033\[0;31m' #  ${RED}
  > 
 > GREEN='\\033\[0;32m' #  ${GREEN}
- 
- Go to path find the `git-prompt.sh`
+
+#### Get start:
+ - Go to path find the `git-prompt.sh`
  `C:\Program Files\Git\etc\profile.d`
  
- Open it with VS code for example. 
+-  Open it with VS code for example. 
  
-Attention - System will ask you to save as root
+ ==Attention== - System will ask you to save as root
  
- 
+
  Change file as example
  
  
@@ -101,6 +107,17 @@ then
 fi
 ```
 
+
+Then:
  
+ Open git bash:
  
+ - set color theme:
+  ![[Pasted image 20210205020752.png]]
+  
+  - set text:
+  ![[Pasted image 20210205020953.png]]
  
+ Result: 
+ 
+ ![[Pasted image 20210205021059.png]]
