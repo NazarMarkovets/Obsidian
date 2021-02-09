@@ -1,10 +1,8 @@
-<span class='flair'>#Obsidian</span>
-
+#Obsidian
 <div align="center">
 <span class='flair mod-pop' style='background-color:green'>Learning</span>
 <img width="20" height="20" src="https://www.flaticon.com/svg/static/icons/svg/945/945147.svg">
 </div>
-
 
 
 

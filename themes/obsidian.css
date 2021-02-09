@@ -5,39 +5,42 @@
   #a- active
 */
 .theme-dark {
-  --background-primary: #131010; /* editor background, graph background*/
-  --background-primary-alt: #1a1a1a;
-  --background-secondary: #161616;
-  --background-nav-alt: #1f201f;
-  --background-nav: #151615;
+  /* --background-primary: #131010; editor background, graph background */
+  /* --background-primary-alt: #1a1a1a; */
+  /* --background-secondary: #161616; */
+  /* --background-nav-alt: #1f201f; */
+  /* --background-nav: #151615; */
   
   /* left panel */
-  --golden-brown: #e9e8e8; /* #a icons, #p note name (label), #p icon bkground (right panel) */
-  --text-faint:#80b67e; /*#p icons, line number color*/
+  /* --golden-brown: #e9e8e8; #a icons, #p note name (label), #p icon bkground (right panel) */
+  /* --text-faint:#80b67e; #p icons, line number color */
   /* ------------------------------------------------ */
   /*right panel */
-  --text-nav-selected: #df0202; /* #p icon text, #a note name (label - left panet) */
+  /* --text-nav-selected: #df0202; #p icon text, #a note name (label - left panet) */
   /* --------------------------------------------*/
 
-  --text-accent: rgb(247, 240, 240); /* #a 3 items (new note,folder, sort), #p#vm hashtag, links */
-  --text-accent-hover: #9b94d6; /* #a links */
-  --text-normal: #9ea6ad; /* all text color*/
-  --text-muted: rgb(179, 46, 46); /*activate items, #p#em hashtags, dots color */ 
+ 
+  /* --text-accent: rgb(247, 240, 240); #a 3 items (new note,folder, sort), #p#vm hashtag, links */
+  /* --text-accent-hover: #9b94d6; #a links */
+  /* --text-normal: #9ea6ad; all text color */
+  /* --text-muted: rgb(179, 46, 46); activate items, #p#em hashtags, dots color  */
   
-  --text-error: #b11b1b;
-  --text-error-hover: #c06363;
-  --text-highlight-bg: #6d6d6d98; /* marked text by ==symbols */
-  --text-on-accent: #2743df; /* #p text program head, #a text right panel*/
-  --interactive-hover: #303030;
-  --interactive-accent: #bbd622; /* #p of active window color*/
-  --interactive-accent-hover: #d6ba7c; /* #a color of buttons in settings */
+  /* --text-error: #b11b1b; */
+  /* --text-error-hover: #c06363; */
+  /* --text-highlight-bg: #6d6d6d98; marked text by ==symbols */
+  /* --text-on-accent: #2743df; #p text program head, #a text right panel */
+  /* --interactive-hover: #303030; */
+  /* --interactive-accent: #bbd622; #p of active window color */
+  /* --interactive-accent-hover: #d6ba7c; #a color of buttons in settings */
   
   /* scroll bar settings*/
-  --scrollbar-active-thumb-bg: #444e0bd3; /* #a scrollbar item color*/
-  --scrollbar-bg: rgb(255, 255, 255); /*#p scrollbar background color */
-  --scrollbar-thumb-bg:#59661096; /*#p scrollbar item color */
+  /* --scrollbar-active-thumb-bg: #444e0bd3; #a scrollbar item color */
+  /* --scrollbar-bg: rgb(255, 255, 255); #p scrollbar background color */
+  /* --scrollbar-thumb-bg:#59661096; #p scrollbar item color */
   
-  --interactive-accent-rgb: #d2c8e9; /* ?*/
+  /* --interactive-accent-rgb: #d2c8e9; ? */
+
+  
 }
 
 

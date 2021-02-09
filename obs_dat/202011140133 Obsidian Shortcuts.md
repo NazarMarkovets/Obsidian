@@ -1,5 +1,4 @@
-<span class='flair'>#Obsidian</span>
-
+#Obsidian
 <div align="center">
 <span class='flair mod-pop' style='background-color:#F1C40F;color:#000;margin:10px'>
 Shortcuts
