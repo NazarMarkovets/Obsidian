@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "202102151923 Create mysql image.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -58,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "06a10661c6a4c880",
@@ -75,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202102151923 Create mysql image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202102091101.md",
+    "202102151923 Create mysql image.md",
+    "Docker/202101290347 Finish task VMmem.md",
+    "Docker/202101291836 Rebuild solution.md",
+    "202102151923.md",
     "202011041557 Obsidian Learnign.md",
+    "202102151129.md",
+    "202102091101.md",
     "202011140133 Obsidian Shortcuts.md",
     "202102051708 Git log.md",
-    "202101290020 Single Page app.md",
-    "202102082008 Ado.Net Транзакции.md",
-    "MySQL/202011161243 Select statement.md",
-    "MySQL/202012200231 Log file.md",
-    "MySQL/202012142142 IN, OUT in stored procedures.md",
-    "MySQL/202011211718 Update with replace.md"
+    "202101290020 Single Page app.md"
   ]
 }
