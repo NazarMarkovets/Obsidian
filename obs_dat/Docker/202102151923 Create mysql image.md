@@ -1,7 +1,7 @@
 #Docker 
 ##### Creating example
 ```
-docker run --name comments  -e MYSQL_ROOT_PASSWORD=password -d mysql:8.0.23
+docker run -p 3306:3306 -d -e MYSQL_ROOT_PASSWORD=password mysql:8.0.23
 ```
 where:
 `comments` - name of image
