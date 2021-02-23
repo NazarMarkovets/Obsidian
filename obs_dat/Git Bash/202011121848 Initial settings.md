@@ -7,7 +7,7 @@
 
 # Config setup folder for git bash
 1. Call git bash
-2. write: nano ``.bashrc``
+2. write: ``nano .bashrc``
 3. write
 
 ```bash
