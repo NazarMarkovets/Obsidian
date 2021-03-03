@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c07f53dcb874db71",
+        "id": "92752a3468f35ee7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202102231700 Postgre SQL.md",
-            "mode": "preview"
+            "file": "Git Bash/202103031325 Set up SSH for git.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202102231700 Postgre SQL.md",
+                "file": "Git Bash/202103031325 Set up SSH for git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202102231700.md",
-    "Docker/202102151923 Create mysql image.md",
+    "202103031325.md",
+    "Ubuntu/202103021301 Install powerline for Ubuntu bash.md",
+    "CSharp/202101240019 If else.md",
     "Docker/202101291836 Rebuild solution.md",
-    "Docker/202101290347 Finish task VMmem.md",
-    "202102221708 Cinema ticket selling.md",
-    "202102221708.md",
-    "Git Bash/202102051708 Git log.md",
     "CSharp/202101020037 Dotnet console.md",
-    "202011041557 Obsidian Learnign.md",
-    "Git Bash/202011121848 Initial settings.md"
+    "Git Bash/202103021301 Install powerline for Ubuntu bash.md",
+    "202103021301 Install powerline for Ubuntu bash.md",
+    "MySQL/202011091508 Load Blob.md",
+    "MySQL/202011151524 Delete statement.md",
+    "MySQL/202011151922 Solve problem ERROR 3678.md"
   ]
 }

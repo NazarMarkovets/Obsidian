@@ -11,7 +11,7 @@ dotnet new lib -n "IntroLib"
 └ dotnet sln VScodeIntro.sln add **/*.csproj //add reference on bash
 dotnet add ./IntroUI/IntroUI.csproj reference IntroLib/IntroLib.csproj
 ```
-[[template]]
+
 
 ##### CLI flags
 ```dotnet
@@ -30,7 +30,6 @@ dotnet add Test [first project name] reference Test2 [second project name]
 dotnet add Test package Newtonsoft.Json //add nuget package to project
 dotnet add sln add Test [name of project] //add projects to solution
 ```
-[[template]]
 ##### CLI new
 ```dotnet
 // - create new console aplication with namespace myapp
