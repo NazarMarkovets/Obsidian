@@ -4,7 +4,8 @@
 
 ##### Creating project
 ```dotnet
-dotnet add sln -n "VScodeIntro" //create solution
+dotnet add sln -n "VScodeIntro" //create solution in the same folder
+dotnet add sln -o "VscodeIntro" //create solution in folder VscodeIntro
 dotnet new console [type of project] -n "IntroUI" //create project IntroUI
 dotnet new lib -n "IntroLib"
 ┌ dotnet sln VScodeIntro.sln add ./IntroUI/IntroUI.csproj //add reference on Windows
@@ -23,26 +24,24 @@ dotnet --help
 ```
 
 
-##### CLI add 
+##### CLI add references 
 ```dotnet 
 //add dependensy between two independent project
-dotnet add Test [first project name] reference Test2 [second project name]
+dotnet add [first project name] reference [second project name]
+
+//Example:
+dotnet add DataExecurer/DataExecurer.csproj reference DataLib/DataLib.csproj
+// add package
 dotnet add Test package Newtonsoft.Json //add nuget package to project
-dotnet add sln add Test [name of project] //add projects to solution
+//add ref to solution
+dotnet sln VScodeIntro.sln add ./IntroUI/IntroUI.csproj
 ```
 ##### CLI new
 ```dotnet
-// - create new console aplication with namespace myapp
-dotnet new console -o myapp
+dotnet new [ENTER] //show help
+dotnet new console -o myapp //create new console aplication with namespace myapp
 dotnet new classlib -n "AnotherLib" //add empty project
 dotnet new sln -n "NewSolutionName" //add solution file
-//go to the project
-	cd myapp
-//launch in Visual Code 
-	code .
-	dotnet restore // - second steep delete all references of the project
-	dotnet run // run the application
-
 ```
 
 

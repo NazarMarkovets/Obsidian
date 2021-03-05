@@ -21,9 +21,8 @@ Then go to git: Settings/SSH and GPG keys/ new SSH key.
 Write title(anything) and for the field ==key== - open console and write:
 
 ##### 
-```
+```shell
  cat ~/.ssh/id_rsa.pub
- 
 ```
 copy all and paste there
 

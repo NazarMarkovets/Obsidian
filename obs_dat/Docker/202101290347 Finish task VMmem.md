@@ -4,6 +4,8 @@ use command line
 
 
 ##### commands
-```cmd
-wsl \--shutdown
+```bash
+wsl \--shutdown 
+#or
+wsl.exe --shutdown
 ```
