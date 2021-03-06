@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git Bash/202103031325 Set up SSH for git.md",
+            "file": "Ubuntu/202103021301 Install powerline for Ubuntu bash.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Bash/202103031325 Set up SSH for git.md",
+                "file": "Ubuntu/202103021301 Install powerline for Ubuntu bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Git Bash/202103031325 Set up SSH for git.md",
     "Ubuntu/202103021301 Install powerline for Ubuntu bash.md",
+    "Git Bash/202103031325 Set up SSH for git.md",
     "202103041550 CA Task.md",
     "202103061225 WSL2 for Windows Terminal Ubuntu.md",
     "202103041759 Приложение двенадцати факторов.md",
